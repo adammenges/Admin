@@ -5,6 +5,7 @@
 | **Title** | **Name** | **GitHub** | **Languages** |
 |:----------|:---------|:-----------|:--------------|
 |Admin |Andrew Scott |[askl56](https://github.com/askl56) |Ruby, JS, Python |
+|Admin |Marian Ignev |[mignev](https://github.com/mignev) |Ruby, JS, Python |
 
 
 

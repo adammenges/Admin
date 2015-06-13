@@ -6,6 +6,7 @@
 |:----------|:---------|:-----------|:--------------|
 |Admin |Andrew Scott |[askl56](https://github.com/askl56) |Ruby, JS, Python |
 |Admin |Marian Ignev |[mignev](https://github.com/mignev) |Ruby, JS, Python |
+|Admin |Pavel Ivanov |[pivanov](https://github.com/pivanov) |Ruby, JS, Python |
 
 
 
